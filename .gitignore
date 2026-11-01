@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+output/
+*.log
+config.local.json
+LOCAL_NOTES.md
+create_desktop_shortcut.ps1
